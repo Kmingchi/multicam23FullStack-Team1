@@ -21,6 +21,7 @@ configurations {
 
 repositories {
 	mavenCentral()
+	//님들 이거 바뀜
 }
 
 dependencies {
